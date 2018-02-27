@@ -12,7 +12,7 @@ elif question == "Cosmin":
     print "El este regele"
 kg = raw_input("Cate kilograme ai?")
 if kg == "65":
-    print "Esti pe moarte"
+    print "Esti pe moarte ba asta"
 
 raw_input()
 
